@@ -1,0 +1,15 @@
+streamlit
+openai
+python-dotenv
+requests
+google-adk
+PyPDF2
+crewai
+langchain
+langchain_community
+pandas
+pyyaml
+python-pptx 
+crewai-tools
+selenium
+webdriver-manager
